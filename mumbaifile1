@@ -2,4 +2,8 @@ public class{
 	abToEnterKardiya(){
 		System.out.println("mistake");
 	}
+}public class Singapore extends Main{
+	void display(){
+		System.out.println("hey babies");
+	}
 }
